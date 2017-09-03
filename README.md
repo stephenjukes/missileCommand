@@ -1,6 +1,6 @@
 # missileCommand
 
-View at: https://rawgit.com/stephenjukes/missileCommand/master/index.html
+<a href="https://rawgit.com/stephenjukes/missileCommand/master/index.html">Play in browswer here</a>
 
 Use your mouse to target your missiles and click to launch. Any enemy missiles that run into the resulting explosion will themselves explode and stop further enemy missiles.
 

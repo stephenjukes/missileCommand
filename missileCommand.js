@@ -532,7 +532,7 @@ function EnemyMissile(xStart, yStart) {
 	this.maxAngle = Math.PI - Math.atan( HEIGHT / (WIDTH - this.xStart) );
 	this.angle = Math.random() * (this.maxAngle - this.minAngle) + this.minAngle;
 	this.color = ['green', 'red', 'blue'];
-	this.speed = 0.5;
+	this.speed = 0.01;
 	this.xVelocity = - Math.cos(this.angle) * this.speed;
 	this.yVelocity = Math.sin(this.angle) * this.speed;
 	this.points = 10;

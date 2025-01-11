@@ -7,3 +7,5 @@ Use your mouse to target your missiles and click to launch. Any enemy missiles t
 The game continues until all your cities have been destroyed.
 
 Practice Point: Creating a game using canvas.
+
+![screenshot](images/missileCommand.png)

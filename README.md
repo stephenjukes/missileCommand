@@ -10,5 +10,3 @@ Practice Point: Creating a game using canvas.
 
 ![missileComand](https://github.com/user-attachments/assets/da595934-2a64-4f20-93d2-92e321e48331)
 
-![screenshot](images/missileCommand.png)
-

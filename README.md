@@ -8,4 +8,4 @@ The game continues until all your cities have been destroyed.
 
 Practice Point: Creating a game using canvas.
 
-<img src="images/missileCommand.png" />
+![Screenshot](https://github.com/[stephenjukes]/[missileCommand]/blob/[master]/missileCommand.png?raw=true)
